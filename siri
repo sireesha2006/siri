@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sireesha's Profile</title>
+    <style>
+        /* General body styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Header Styles */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+
+        /* Section Styles */
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Heading Styles */
+        h2 {
+            color: #4CAF50;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        /* Paragraph Styles */
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        /* Technical Skills List */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            background-color: #ddd;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        /* Footer Styles */
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Sireesha's Profile</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I am Sireesha, a second-year student in the AI & ML department at Visakha Institute of Engineering and Technology.</p>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>C Language</li>
+            <li>Java</li>
+            <li>Data Science</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sireesha. All rights reserved.</p>
+    </footer>
+</body>
+</html>
